@@ -1,0 +1,6 @@
+setup.py
+varshithmadishetty/__init__.py
+varshithmadishetty.egg-info/PKG-INFO
+varshithmadishetty.egg-info/SOURCES.txt
+varshithmadishetty.egg-info/dependency_links.txt
+varshithmadishetty.egg-info/top_level.txt
